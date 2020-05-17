@@ -1,9 +1,10 @@
 ---
-author: Allen Ginsberg
-title: Sunflower Sutra
+author: Watson & Crick
+title: This is federico TEst
 slug: sunflower-sutra
-date: 2019-08-01T07:00:00Z
+date: 2019-08-01T07:00:00.000+00:00
 hero_image: "/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
+block_go_here: []
 
 ---
 I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
